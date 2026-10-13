@@ -11,6 +11,8 @@ Original repository: <https://github.com/9lordisgod/Timecoin>
 | [book](https://github.com/Timechain-HQ/book) | Issuance schedule, note bytes, and block rules |
 | [wallet](https://github.com/Timechain-HQ/wallet) | View keys, payments, and sweeps |
 | [contracts](https://github.com/Timechain-HQ/contracts) | Contract machine and the vault |
+| [privacy](https://github.com/Timechain-HQ/privacy) | View keys, memos, and the public TIC amounts |
+| [post-quantum](https://github.com/Timechain-HQ/post-quantum) | Day-one ML-DSA-44 and ML-KEM-768 rules |
 
 ```mermaid
 flowchart LR
