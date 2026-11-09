@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.timecoin.cash">timecoin.cash</a> ·
   <a href="https://github.com/Timechain-HQ/roadmap">Roadmap</a> ·
   <a href="https://github.com/Timechain-HQ/Timecoin">Node</a>
 </p>
