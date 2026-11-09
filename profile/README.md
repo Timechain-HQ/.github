@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="Timechain HQ" width="160" height="160" />
-</p>
-
 <h1 align="center">Timechain HQ</h1>
 
 <p align="center">
